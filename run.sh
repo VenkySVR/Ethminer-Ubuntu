@@ -1,0 +1,2 @@
+ethminer/bin/ethminer -U -P stratum1+tcp://0x8d83aC558D95428f8Bf31CF935A9318d36Ab3b8F.RIG_ID@eu1.ethermine.org:4444
+# ----------------------------------------[     Paste your eth wallet address above  ]----------------------------
